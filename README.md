@@ -1,1 +1,1 @@
-Usefull SQL Queries para el trabajo
+Usefull SQL Queries
