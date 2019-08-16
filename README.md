@@ -1,2 +1,2 @@
-Proycto de automatización de reportes
+Proyecto de automatización de reportes
 By: César Granados aka CsarGrandos
